@@ -1,2 +1,2 @@
 # Atividades-CS
-Atividades de computação do Vitor 
+Algumas atividades sobre computação feitas dm Go.
